@@ -7,6 +7,6 @@ def my_collect(array)
     i = i+1
 
   end
-end
 
-Array
+  empty_array
+end
