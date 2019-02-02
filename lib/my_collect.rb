@@ -5,6 +5,6 @@ def my_collect(array)
   while i < array.length
     yield array[i] = empty_array
     i = i+1
-
   end
+  empty_array
 end
