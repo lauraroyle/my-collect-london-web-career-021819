@@ -9,4 +9,4 @@ def my_collect(array)
   end
 end
 
-array
+Array
